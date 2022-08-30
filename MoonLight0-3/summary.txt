@@ -1,0 +1,9 @@
+Summary for /www/javadecompilers/app/public/data/30.08.22/11dc3842f22eeac917ca55b332e28f53/123.jar
+Decompiled with CFR 0.150
+
+
+ru.internali.utils.cfg
+----------------------------
+
+load()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[DOLOOP]], but top level block is 6[UNCONDITIONALDOLOOP]
